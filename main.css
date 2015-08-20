@@ -1,9 +1,19 @@
-//CSS for Webpage
-li{
+/*CSS for Webpage*/
+body {
+	background-color: #FFFF8F;
+	background-image: url("images/circle_gradient_background.jpg");
+}
+
+h1, p {
+	text-align: center;
+}
+
+li {
   display: inline;
 }
 
 ul {
+	text-align: center;
     list-style-type: none;
     margin: 0;
     padding: 0;
