@@ -1,15 +1,19 @@
 /*CSS for Webpage*/
+<style>
+#header {
+	background-color: blue;
+	background-image: url("images/Blue_Chevron");
+}
+</style>
+
 body {
 	background-color: #FFFF8F;
-	background-image: url("images/circle_gradient_background.jpg");
 }
 
-h1, p {
+
+
+h1, h2, p {
 	text-align: center;
-}
-
-li {
-  display: inline;
 }
 
 ul {
