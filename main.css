@@ -1,6 +1,6 @@
 .header {
-	background-color: blue !important;
-	background-image: url("..images\Blue_Chevron");
+	background-color: blue;
+	background-image: url("..images\Blue_Chevron") !important;
 }
 
 body {
