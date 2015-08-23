@@ -1,6 +1,6 @@
 /*CSS for Webpage*/
 .header {
-	background-color: blue;
+	background-color: blue !important;
 	background-image: url("..images/Blue_Chevron");
 }
 
