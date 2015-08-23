@@ -1,10 +1,8 @@
 /*CSS for Webpage*/
-<style>
-#header {
+.header {
 	background-color: blue;
 	background-image: url("..images/Blue_Chevron");
 }
-</style>
 
 body {
 	background-color: #FFFF8F;
