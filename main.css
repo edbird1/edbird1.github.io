@@ -1,0 +1,66 @@
+body {
+	background-color: #FFFF94;
+}
+
+h1, h2, p {
+	text-align: center;
+}
+
+ul {
+	text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+	border: 2px solid black;
+}
+
+.header {
+	background-color: #00003C;
+	background-image: url("Images/Blue_Chevron2.JPG") !important;
+	margin: 5px;
+	padding: 10px;
+}
+
+.nav {
+	text-align: right;
+}
+
+.textOnDesign {
+	text-shadow:
+		-1px -1px white,
+		1px -1px white,
+		-1px 1px white,
+		1px 1px white,
+		-2px -2px black,
+		2px -2px black,
+		-2px 2px black,
+		2px 2px black; 
+	text-align: left;
+}
+
+a:link {
+    color: #0000CC;
+    text-shadow:
+		-1px -1px white,
+		1px -1px white,
+		-1px 1px white,
+		1px 1px white,
+}
+
+a:visited {
+    color: #00FF00;
+}
+
+a:hover {
+    color: #0066FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+
+
