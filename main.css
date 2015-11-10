@@ -1,5 +1,5 @@
 body {
-    background-color: #FFFF94;
+    background-color: #FFD839;
     margin: 0;
 }
 
@@ -22,9 +22,9 @@ img {
 
 .header,
 .mainContent {
-    margin: 0 15px;
+    margin: 20px 15px 0 15px;
     padding: 20px;
-    border: 2px solid #00003c;
+    border: 2px solid #05003C;
 }
 
 .header {
@@ -42,20 +42,24 @@ img {
 }
 
 a:link {
-    color: #0000CC;
+    color: #241088;
     text-shadow: -1px -1px white, 1px -1px white, -1px 1px white, 1px 1px white,
 }
 
 a:visited {
-    color: #00FF00;
+    color: #9B7C00;
 }
 
 a:hover {
-    color: #0066FF;
+    color: #FFE063;
 }
 
 a:active {
     color: #0000FF;
+}
+
+.webName {
+    background-color: #FFD839;
 }
 
 .mainContent {
